@@ -16,8 +16,8 @@
 
 // Part 4 – Short answers (in a comment at the top of main.dart)
 // 1. What is the difference between context.go and context.push? ------ not using GoRouter to know difference yet
-// 2. Why did we use go for Login → Products and push for Product؟--------
-// 3. What is the difference between a path parameter and a query parameter? --------.
+// 2. Why did we use go for Login → Products and push for Product؟-------- not using GoRouter to know difference yet
+// 3. What is the difference between a path parameter and a query parameter? -------- not using GoRouter to know difference yet
 
 
 
